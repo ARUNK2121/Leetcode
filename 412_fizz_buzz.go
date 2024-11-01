@@ -2,7 +2,7 @@ package main
 
 import "strconv"
 
-// Fuzz Buzz
+// Fizz Buzz
 // Time Complexity : O(n)
 // Space Complexity : O(n)
 
